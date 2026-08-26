@@ -125,3 +125,4 @@ llm:
     modelName: REPLACE_ME
     apiKey: REPLACE_ME
     baseUrl: REPLACE_ME
+    projectId: REPLACE_ME
