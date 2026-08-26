@@ -122,6 +122,6 @@ oidc:
 
 llm:
   complaint:
-    modelName:
-    apiKey:
-    baseUrl:
+    modelName: REPLACE_ME
+    apiKey: REPLACE_ME
+    baseUrl: REPLACE_ME
